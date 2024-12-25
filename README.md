@@ -10,6 +10,7 @@ Incorporate image and caption preprocessing, including tokenization and appropri
 
 Split it into training, validation and test sets
 
+
 Step 2: Model:
 
 Create an Encoder-Attention-Decoder architecture
@@ -25,6 +26,7 @@ Visualize the loss and metric progress across epochs.
 Visualize attention weights to demonstrate the learning process. 
 
 Use the BLEU score to measure the quality of generated captions.
+
 
 Step 3: Existing Model Comparison:
 
