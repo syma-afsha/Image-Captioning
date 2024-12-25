@@ -2,9 +2,12 @@
 
 Step 1: Dataset: 
 
-Use the Flickr8k dataset [Link](https://www.kaggle.com/datasets/adityajn105/flickr8k) 
+Use the Flickr8k dataset [Link](https://www.kaggle.com/datasets/adityajn105/flickr8k)
+
 Implement a PyTorch Dataset class to manage the data
+
 Incorporate image and caption preprocessing, including tokenization and appropriate padding for batch processing
+
 Split it into training, validation and test sets
 
 Step 2: Model:
